@@ -1,0 +1,6 @@
+#ifndef PROBLEM_1_PROJECTTYPES_H
+#define PROBLEM_1_PROJECTTYPES_H
+
+using scalar = double;
+
+#endif //PROBLEM_1_PROJECTTYPES_H
